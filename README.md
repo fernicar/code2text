@@ -2,7 +2,7 @@
 
 A Python utility for bundling Python projects into a single text file, making it easier to share code with Large Language Models (LLMs) or for documentation purposes.
 
-[app_capture](https://github.com/fernicar/images/main/blob/app_capture.png)
+![app_capture](https://github.com/fernicar/code2text/blob/main/images/app_capture.png)
 
 ## Description
 
